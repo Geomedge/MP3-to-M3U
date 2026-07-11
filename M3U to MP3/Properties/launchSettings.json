@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "M3U to MP3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "M3U to MP3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
