@@ -1,5 +1,5 @@
 # M3U to MP3
-This program is a C# version of the python M3U to MP3 converter
+This program is a C# version of the python M3U to MP3 converter [Repo](https://github.com/Geomedge/M3U-to-Mp3-playlist-converter)
 ---
 # How to use
 - Compile the code in Visual Studio or go to the releases tab for the .exe
